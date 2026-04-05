@@ -297,6 +297,9 @@ Open **http://localhost:5173/** in your browser to explore:
 | **Embeddings** | BAAI/bge-base-en-v1.5 (sentence-transformers) |
 | **Vector Database** | FAISS (faiss-cpu, IndexFlatIP) |
 | **LLM** | Mistral 7B (via Ollama, localhost) |
+
+
+
 | **NLP Features** | spaCy (en_core_web_sm) |
 | **ML Classifiers** | scikit-learn (LogisticRegression, RandomForest, GradientBoosting) |
 | **Visualization** | matplotlib, seaborn (backend) · Chart.js (frontend) |
@@ -304,6 +307,9 @@ Open **http://localhost:5173/** in your browser to explore:
 | **Styling** | Custom CSS (glassmorphism dark theme) |
 
 ---
+
+A Demo Video Of The running Project  : https://github.com/user-attachments/assets/02b7840a-c959-4730-a0a1-21c119a0e325
+
 
 ## 📄 License
 
